@@ -1,4 +1,4 @@
-Of course. Here is a complete and professional README file for your AI Code Review Assistant project. You can copy and paste this directly into your README.md file on GitHub.
+
 
 🤖 AI Code Review Assistant
 An intelligent, automated code reviewer powered by Google's Gemini AI. This tool analyzes Python code for readability, potential bugs, and best practices, providing instant, detailed feedback through a clean and interactive web interface.
@@ -94,5 +94,4 @@ Here is a brief overview of the key files in this project:
 ├── requirements.txt    # A list of all Python package dependencies.
 ├── .env                # Your secret API key (you must create this).
 └── README.md           # This file.
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
